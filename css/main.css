@@ -1,0 +1,19 @@
+.chart {
+    float: left;
+    margin-right: 20px;
+}
+
+.chart-legend {
+    float: left;
+}
+
+.chart-legend ul {
+    list-style: none;
+}
+
+.chart-legend li span {
+    display: inline-block;
+    width: 32px;
+    height: 12px;
+    margin-right: 5px;
+}
